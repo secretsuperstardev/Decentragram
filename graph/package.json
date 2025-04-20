@@ -4,10 +4,10 @@
   "scripts": {
     "codegen": "graph codegen",
     "build": "graph build",
-    "deploy": "graph deploy --node https://api.thegraph.com/deploy/ aakrut/decentragram",
-    "create-local": "graph create --node http://localhost:8020/ aakrut/decentragram",
-    "remove-local": "graph remove --node http://localhost:8020/ aakrut/decentragram",
-    "deploy-local": "graph deploy --node http://localhost:8020/ --ipfs http://localhost:5001 aakrut/decentragram",
+    "deploy": "graph deploy --node https://api.thegraph.com/deploy/ secretsuperstardev/decentragram",
+    "create-local": "graph create --node http://localhost:8020/ secretsuperstardev/decentragram",
+    "remove-local": "graph remove --node http://localhost:8020/ secretsuperstardev/decentragram",
+    "deploy-local": "graph deploy --node http://localhost:8020/ --ipfs http://localhost:5001 secretsuperstardev/decentragram",
     "test": "graph test"
   },
   "dependencies": {

@@ -5,7 +5,7 @@ import "hardhat/console.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
 
 /*
-* @author Aakrut
+* @author secretsuperstardev
 * @title SocialMedia App
 */
 contract SocialMediaApp {
