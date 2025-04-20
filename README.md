@@ -1,6 +1,5 @@
-# Decentragram 
+# Decentragram <img src="https://user-images.githubusercontent.com/67114280/218386745-44d544ac-8fa0-4c1c-b924-19de2f4e685e.png" alt="logo" width="35px" height="35px" align="center" />
 
-<img width="1600" alt="credit" src="https://user-images.githubusercontent.com/67114280/218385011-1c1c231b-ddf1-408c-896d-52e7d61dfd75.png">
 
 ### Functionalities
 
